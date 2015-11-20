@@ -48,7 +48,7 @@ $(function(){
 	$('body').on('click', 'a[data-ajax]', function () {
 		var self = $(this),
 			modal_body = self.closest('.modal-body').empty();
-		$.ajax({
+		$.ajax({ 
 			url: self.attr('href'),
 			success: function (response) {
 				modal_body.html(response);

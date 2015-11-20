@@ -1,5 +1,5 @@
 {
-    "name": "conquer/gii-modal",
+    "name": "ruzk/gii-modal",
     "description": "Yii2 gii modal",
     "keywords": ["yii2", "extension", "gii", "modal"],
     "homepage": "https://github.com/borodulin/yii2-gii-modal",
@@ -10,7 +10,10 @@
             "name": "Andrey Borodulin",
             "email": "borodulin@gmail.com",
             "homepage": "https://github.com/borodulin/yii2-gii-modal"
-        }
+        }, 
+		{
+			"name" : "RuZk"
+		}
     ],
     "extra": {
         "branch-alias": {
